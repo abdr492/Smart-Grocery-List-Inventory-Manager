@@ -1,0 +1,32 @@
+# Project Dependencies for FSD-Smart-Grocery-List&Inventory-Manager
+# Generated from package.json
+
+# Frontend Framework
+react==19.0.1
+react-dom==19.0.1
+
+# Build Tools
+vite==6.2.3
+esbuild==0.25.0
+tailwindcss==4.1.14
+autoprefixer==10.4.21
+
+# Backend
+express==4.21.2
+tsx==4.21.0
+
+# Firebase
+firebase==12.14.0
+
+# UI & Utilities
+lucide-react==0.546.0
+motion==12.23.24
+recharts==3.8.1
+quagga2==1.12.1
+google-genai==2.4.0
+
+# Configuration
+dotenv==17.2.3
+
+# Type Checking (DevDependencies)
+typescript==5.8.2

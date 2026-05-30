@@ -1,0 +1,6 @@
+{
+  "name": "Smart Grocery List & Inventory Manager",
+  "description": "A real-time dark-themed pantry inventory keeper, shopping list manager with low-stock sync, barcode scanning lookup, spending/consumption trend analytics, and a Gemini-powered zero-waste recipe suggestion engine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
